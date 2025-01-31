@@ -99,6 +99,13 @@ function getWebviewContent() {
                     text
                 });
             });
+
+            window.addEventListener('message', event => {
+                const message = event.data;
+                if (message.command === 'chatResponse') {
+                    document.getElementById('response').innerText = message.text;
+                }
+            });
         </script>
     </body>
     </html>`;
