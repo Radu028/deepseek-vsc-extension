@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "deepseek-r1.helloWorld",
-        "title": "Hello World"
+        "command": "deepseek-r1.start",
+        "title": "Deepseek: Start Chat"
       }
     ]
   },
