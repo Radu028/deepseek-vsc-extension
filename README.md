@@ -6,7 +6,6 @@ Deepseek-VSC-Extension is a Visual Studio Code extension that provides an integr
 
 - **Interactive Chat:** Send chat commands and receive real-time responses directly within VS Code.
 - **Streamed Responses:** Watch as the model's response is incrementally built and displayed.
-- **Modern, Dark Mode UI:** Enjoy a sleek, dark-themed interface optimized for ease of use.
 - **Command Palette Integration:** Activate the chat using the command `Deepseek: Start Chat` from the Command Palette.
 
 ## Requirements
